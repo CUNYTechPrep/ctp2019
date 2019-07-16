@@ -12,7 +12,7 @@ _CUNY Tech Prep 2019-2020_
     + [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
     + [Learn Git](https://www.codecademy.com/learn/learn-git)
     + [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-        * _Only complete **sections 1-9**_
+        * _Only complete **sections 1-9, and 12**_
 
 _If Git and JavaScript are challenging for you to learn, you can take a look at these additional resources:_
 
@@ -59,7 +59,7 @@ _If Git and JavaScript are challenging for you to learn, you can take a look at 
 
 - Submit a screenshot of your completed progress for the following courses on the Google Form shared on Slack. 
     + [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-        * _Only complete **sections 1-9**_
+        * _Only complete **sections 1-9, and 12**_
 - Complete the **JavaScript Programming Challenge** found here:
     + _coming soon_
 
