@@ -41,7 +41,7 @@ The "JavaScript" name is trademarked by the Oracle Corporation. When you work wi
     + Documentation for the Core Language and Client-side (Web Browser) API's.
     + DOM API:
         * https://developer.mozilla.org/en-US/docs/Web/API/Document
-    + _Hint:_ When searching google prefix your search with "mdn javascript", such as "mdn javascript array"
+    + _Hint:_ When searching google prefix your search with "`mdn javascript`", such as "`mdn javascript array`"
 - Node Documentation (Server-Side Node.js API's)
     + https://nodejs.org/en/docs/
     
@@ -55,9 +55,9 @@ The "JavaScript" name is trademarked by the Oracle Corporation. When you work wi
         * Chapter 6 is important, but you can skim: Symbols, The Iterator Interface, Inheritance
         * Chapter 8
         * Chapter 9
-- [You Don't Know JS - Book Series](https://github.com/getify/You-Dont-Know-JS)
-    + Various free books on specific JS topics
-- For advanced books on JavaScript I recommend [Dr. Axel Rauschmayer's Books](http://exploringjs.com/)
+- [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html), By Dr. Axel Rauschmayer
+    + A fast read if you're comfortable with programming concepts and just want examples of how JavaScript works. 
+- For advanced books on JavaScript I recommend [Dr. Axel Rauschmayer's Other Books](http://exploringjs.com/)
     + For ES6: http://exploringjs.com/es6.html
 
 ## Resources for Learning ES6 when you already know ES5

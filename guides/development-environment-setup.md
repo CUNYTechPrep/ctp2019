@@ -131,7 +131,7 @@ The best way to manage your Node.js installations is to use the NVM (Node Versio
 touch ~/.bash_profile
 
 # Install nvm (both linux and mac users)
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 
 # After nvm installs you should close your terminal and open a new one to access nvm
 
@@ -139,13 +139,7 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | 
 nvm ls
 
 # Install the LTS node.js version
-nvm install 8.11.4
-
-# Install another node.js version
-nvm install 10.9.0
-
-# You are now using version 10.9.0, to switch back to 8.11.4 run
-nvm use 8.11.4
+nvm install 10.16.0
 
 # Run the node repl (read-eval-print loop)
 node
@@ -155,7 +149,7 @@ The `node` command runs the interpreter allowing you to run and evaluate JavaScr
 
 **Exiting Node:** Press `ctrl+d`
 
-If the nvm command is not working for you on the Mac, then check this section for additional troubleshooting: [https://github.com/creationix/nvm#install-script](https://github.com/creationix/nvm#install-script).
+If the nvm command is not working for you on the Mac, then check this section for additional troubleshooting: [https://github.com/nvm-sh/nvm#install--update-script](https://github.com/nvm-sh/nvm#install--update-script).
 
 
 ## Basic Command Line Commands
