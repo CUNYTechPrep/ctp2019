@@ -2,6 +2,22 @@ _CUNY Tech Prep 2019-2020_
 
 # Assignments
 
+## Fall Assignments
+
+### Individual Project Proposal
+**Due before Week 2 class (9/3 - 9/6)**
+
+- [Individual Project Proposal guidelines](individual-project-proposal.md)
+- [Submit Here](https://forms.gle/1mSKV6mZ4zbQw51Z9)
+
+
+### Team Project Proposal
+**Due before Week 4 class (9/17 - 9/20)**
+
+- Form a **team of 3** students and submit a Team Project Propsal.
+- [Team Project Proposal guidelines](team-project-proposal.md)
+- [Submit Here](https://forms.gle/FTAgJtLu7ynUjdaXA)
+
 
 ## Summer Assignments
 

@@ -11,6 +11,10 @@ Topics:
 - Review: HTML & CSS
 - Intro to Bootstrap
 
+Assignments:
+
+- [Individual Project Proposal](https://github.com/CUNYTechPrep/ctp2019/tree/master/assignments#individual-project-proposal) due Week 2
+
 
 ## (September 3 - September 6) Week 2
 
@@ -20,6 +24,10 @@ Topics:
 
 - React Intro
 
+Assignments:
+
+- Form a team of 3
+- [Team Project Proposal](https://github.com/CUNYTechPrep/ctp2019/tree/master/assignments#team-project-proposal) due Week 4
 
 ## (September 10 - September 13) Week 3
 
