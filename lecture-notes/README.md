@@ -4,6 +4,12 @@ _CUNY Tech Prep 2019-2020_
 
 ## (August 27 - August 30) Week 1
 
+[Lecture Slides](lecture-01.pdf)
+
+[Development Environment Setup](../guides/development-environment-setup.md)
+
+[Week 01 Projects](https://github.com/CUNYTechPrep/week-01-projects)
+
 Topics:
 
 - Fall Semester Overview
