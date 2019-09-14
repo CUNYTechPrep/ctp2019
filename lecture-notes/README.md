@@ -26,6 +26,10 @@ Assignments:
 
 > _Note: Thursday 9/5 is Monday Schedule at CUNY, but remains Thursday schedule for CTP. Students with class conflicts should contact Silu to reschedule._
 
+[Lecture Slides (Updated)](React-Intro-2019.pdf)
+
+[Learn React 1: Step by Step](https://gist.github.com/medgardo/9d328a3b0029965158186cbdff5e3a42)
+
 Topics:
 
 - React Intro
@@ -37,6 +41,12 @@ Assignments:
 
 ## (September 10 - September 13) Week 3
 
+[Lecture Slides (URL's and HTTP)](lecture-03.pdf)
+
+[Lecture Slides (fetch and React)](fetch-and-React-2019.pdf)
+
+[Week 03 Project (Zip Code Search)](https://github.com/CUNYTechPrep/week-03-projects)
+
 Topics:
 
 - Client-Server Communication
@@ -45,6 +55,10 @@ Topics:
 - `fetch(...)` and Promises
 - More React
 
+Assignments:
+
+- Start the week 3 projects https://github.com/CUNYTechPrep/week-03-projects
+- Try the React Tic Tac Toe tutorial https://reactjs.org/tutorial/tutorial.html
 
 ## (September 17 - September 20) Week 4
 
