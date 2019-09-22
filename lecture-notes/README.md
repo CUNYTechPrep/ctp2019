@@ -65,11 +65,15 @@ Assignments:
 Topics:
 
 - _CC Workshop #1_: Types of Roles in Tech + Networking
-- More React
-- React Router
+- More `fetch()` and React
+- ~React Router~ (_we will come back to this in a few weeks_)
 
 
 ## (September 24 - September 27) Week 5
+
+[Lecture Slides (Fullstack, npm, express.js intro)](lecture-04.pdf)
+
+[Project (Zip Code API)](https://github.com/CUNYTechPrep/week-04-projects)
 
 Topics:
 
