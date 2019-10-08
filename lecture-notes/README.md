@@ -91,6 +91,11 @@ Topics:
 
 > _Note: Tuesday 10/1 is Rosh Hashanah. CTP will hold regular Tuesday class. Any student observing the holiday may contact Silu to reschedule their class day for the week._ 
 
+
+[Lecture Slides (Agile, MVC, Data Modeling, ORM's, and Views)](lecture-05.pdf)
+
+[Project (Data Modeling Exercise _ONLY_)](https://github.com/CUNYTechPrep/week-05-projects#project-01-data-modeling-exercise)
+
 Topics:
 
 - SDLC
