@@ -76,3 +76,20 @@ _If Git and JavaScript are challenging for you to learn, you can take a look at 
 - Submit a screenshot of your completed progress for the following courses on the Google Form shared on Slack. 
     + [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
         * _Only complete **sections 1-9, and 12**_
+
+
+### First Project Presentation
+**Presentations are during Week 9 classes: (10/29 - 11/01)**
+
+#### Presentation Guidelines
+
+- 8 minutes per team (5 min _presentation_, 3 min _Q&A_)
+- **All team members** must present at least one slide
+- See a presentation template here: [first_project_presentation_template.pdf](first_project_presentation_template.pdf)
+- (_Optional_) Show a demo of _work in progress_ if you can
+
+#### What to submit
+
+- One presentation per team
+- Send your mentor and instructor a link to your Google Slides
+- You must be ready to present during Week 9 class
