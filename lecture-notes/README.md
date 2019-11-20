@@ -113,6 +113,8 @@ Topics:
 
 > _Note: Wednesday 10/16 is Monday Schedule at CUNY, but remains Wednesday schedule for CTP. Students with class conflicts should contact Silu to reschedule._
 
+[Project Starter](https://github.com/CUNYTechPrep/project-starter)
+
 Topics:
 
 - Using MVC app structure
@@ -122,25 +124,31 @@ Topics:
 
 ## (October 22 - October 25) Week 8
 
+[Learning Sequelize](https://github.com/CUNYTechPrep/learn-sequelize)
+
 Topics:
 
-- Implementing Authentication
-- Sessions
-- Passport.js, Bcrypt
+- Using Sequelize.js
+- Testing (Jest)
 
 
 ## (October 29 - November 1) Week 9
 
 [**First Project Presentations**](https://github.com/CUNYTechPrep/ctp2019/tree/master/assignments#first-project-presentation)
 
+[Project Starter with Authorization](https://github.com/CUNYTechPrep/project-starter/tree/authentication)
+
 Topics:
 
 - Project Presentations
-- Testing (Jest)
-- Linting (ESLint)
+- Implementing Authentication
+- Sessions
+- Passport.js, Bcrypt
 
 
 ## (November 5 - November 8) Week 10
+
+[Code Review Slides](code-reviews.pdf)
 
 Topics:
 
@@ -153,7 +161,6 @@ Topics:
 
 Topics: 
 
-- _CC Workshop #2_: Project Pitches
 - _Lab Time: Work on Projects_
 
 
@@ -161,6 +168,7 @@ Topics:
 
 Topics:
 
+- _CC Workshop #2_: Project Pitches
 - _Lab Time: Work on Projects_
 
 
