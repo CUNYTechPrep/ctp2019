@@ -49,7 +49,7 @@ On Ubuntu 16.04 you can install postgres with the following commands:
 
 ```
 $ sudo apt-get update
-$ sudo apt-get install -y postgresql-9.5 postgresql-server-dev-9.5
+$ sudo apt-get install -y postgresql-10 postgresql-server-dev-10
 ```
 
 ### Create your DB user
